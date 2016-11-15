@@ -1,0 +1,49 @@
+
+Host: markus-GA-MA770-UD3
+
+Timers On : Tue Nov 15 18:06:23 2016
+Timers Off: Tue Nov 15 18:06:30 2016
+
+Wall Time:        7.00 seconds
+
+JK: (A|mn)  :       0.08u       0.00s   0.075811w     23 calls
+JK: (A|Q)^-1/2:       0.52u       0.00s   0.496378w     23 calls
+JK: (Q|mn)  :       0.01u       0.00s   0.009184w     23 calls
+HF: Form H  :       0.02u       0.00s   0.094499w      9 calls
+HF: Form S/X:       0.00u       0.00s   0.002203w      9 calls
+HF: Guess   :       1.53u       0.00s   1.578505w      9 calls
+SAD Guess   :       1.43u       0.00s   1.436549w      7 calls
+JK: D       :       0.00u       0.00s   0.000844w    158 calls
+JK: USO2AO  :       0.01u       0.00s   0.003353w    158 calls
+JK: JK      :       0.07u       0.00s   0.068158w    158 calls
+JK: J       :       0.01u       0.00s   0.006772w    158 calls
+JK: J1      :       0.00u       0.00s   0.003773w    221 calls
+JK: J2      :       0.00u       0.00s   0.002302w    221 calls
+JK: K       :       0.06u       0.00s   0.057590w    158 calls
+JK: K1      :       0.05u       0.00s   0.045499w    207 calls
+JK: K2      :       0.01u       0.00s   0.011567w    207 calls
+JK: AO2USO  :       0.00u       0.00s   0.003532w    158 calls
+DIISManager::add_entry:       0.00u       0.00s   0.034138w    149 calls
+DIISManager::extrapolate:       0.01u       0.00s   0.008525w    140 calls
+DIISManager::extrapolate: bMatrix setup:       0.00u       0.00s   0.002249w    140 calls
+DIISManager::extrapolate: bMatrix pseudoinverse:       0.01u       0.00s   0.003658w    140 calls
+DIISManager::extrapolate: form new data:       0.00u       0.00s   0.002120w    140 calls
+HF: Form G  :       0.08u       0.00s   0.068640w     95 calls
+HF: Form F  :       0.00u       0.00s   0.000241w     95 calls
+HF: DIIS    :       0.01u       0.00s   0.044497w     95 calls
+HF: Form C  :       0.00u       0.00s   0.008832w     95 calls
+HF: Form D  :       0.00u       0.00s   0.000373w     95 calls
+Grad: T     :       0.00u       0.00s   0.004287w      9 calls
+Grad: V     :       0.27u       0.07s   0.323758w      9 calls
+Grad: S     :       0.01u       0.00s   0.002316w      9 calls
+Grad: JK    :       1.76u       0.04s   2.280269w      9 calls
+JKGrad: Amn :       0.26u       0.00s   0.278188w      9 calls
+JKGrad: Awmn:       0.00u       0.00s   0.000009w      9 calls
+JKGrad: AB  :       0.24u       0.00s   0.236644w      9 calls
+JKGrad: UV  :       0.00u       0.00s   0.002134w      9 calls
+JKGrad: ABx :       0.21u       0.01s   0.366408w      9 calls
+JKGrad: Amnx:       0.43u       0.01s   0.504062w      9 calls
+JKGrad: Awmnx:       0.00u       0.00s   0.000009w      9 calls
+Grad: XC    :       0.00u       0.00s   0.000009w      9 calls
+
+***********************************************************
